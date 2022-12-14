@@ -1,21 +1,21 @@
 //Ini untuk setting Bot//
 
 //『 Utama 』 //
-global.owner = ['6282xxxxxx'] 
-global.mods = ['6282xxxxxx'] 
-global.prems = ['6282xxxxxx'] 
+global.owner = ['4915256954581'] 
+global.mods = ['4915256954581'] 
+global.prems = ['4915256954581'] 
 
 //『 Info Owner 』 //
-global.nameowner = '⫹⫺ Owner'
-global.numberowner = '6282xxxxxx'
-global.instagram = 'https://instagram.com/prm2.0'
+global.nameowner = '⫹⫺ Owner niluh
+global.numberowner = '4915256954581'
+global.instagram = 'https://instagram.com/bednocturnal'
 global.github = 'https://github.com/BOTCAHX'
-global.dana = '6282xxxxxx'
-global.pulsa = '6282xxxxxx'
-global.gopay = ''
+global.dana = '4915256954581'
+global.pulsa = '4915256954581'
+global.gopay = '6285852939370'
 
 //『 Info Bot 』//
-global.namebot = 'R-txzyMd'
+global.namebot = 'NiluhMd'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
 global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -25,10 +25,10 @@ global.fotonya1 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-stu
 global.fotonya2 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© R-TXZY-MD'
+global.wm = '© Niluh-MD'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
+global.wm2 = '⫹⫺ Niluh-MD'
+global.wm3 = '© Niluh-MD'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -39,8 +39,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
-global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.packname = 'Made with Niluh'
+global.author = 'Bot WhatsApp\nNiluh-MD'
 
 //『 Apikey 』 //
 global.APIs = { // API Prefix
